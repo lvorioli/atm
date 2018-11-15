@@ -10,7 +10,7 @@ public class BankAccount {
 	 * Constructor for BankAccount class.
 	 * 
 	 * @param balance
-	 * @param accountHolder
+	 * @param user
 	 */
 	
 	public BankAccount(double balance, User user) {
