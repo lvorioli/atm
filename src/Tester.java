@@ -19,6 +19,8 @@ public class Tester {
 			)
 		);
 		
-		atm.run();
+		// TODO
+		
+		// you need to start the program by calling some method of the ATM class
 	}
 }
